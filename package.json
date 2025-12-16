@@ -1,0 +1,22 @@
+{
+  "name": "ranxoshi256.c",
+  "version": "1.2018.9",
+  "description": "Portable, single-file, PRNG library implementing the xoshiro256** algorithm; BareRose (2018).",
+  "keywords": [
+    "c",
+    "library",
+    "prng",
+    "xoshiro256**",
+    "random"
+  ],
+  "homepage": "https://github.com/nodef/ranxoshi256.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/ranxoshi256.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/ranxoshi256.c.git"
+  },
+  "license": "CC0-1.0",
+  "main": "ranxoshi256.h"
+}
